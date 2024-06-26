@@ -1,0 +1,25 @@
+_repo: Der-Gang-nach-der-Himmelpforte-b-Eine-Erzahlung-fur-Kinder-und-Kinderfreunde_73835
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Friederich, Ferdinand
+    gutenberg_agent_id: '57241'
+    url: http://www.gutenberg.org/2009/agents/57241
+description: ''
+gutenberg_issued: '2024-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73835'
+language: de
+pgterms:marc905: 20240509042118friederich
+pgterms:marc906: '1851'
+pgterms:marc907: DE
+production_note: Christian Reinboth
+publication_note: '  $aWernigerode :$bB. Angerstein, $c1851.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Der Gang nach der Himmelpforte : $b Eine Erzählung für Kinder und Kinderfreunde'
+url: http://www.gutenberg.org/ebooks/73835
