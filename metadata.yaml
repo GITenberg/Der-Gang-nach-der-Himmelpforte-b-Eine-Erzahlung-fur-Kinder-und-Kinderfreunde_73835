@@ -1,11 +1,16 @@
 _repo: Der-Gang-nach-der-Himmelpforte-b-Eine-Erzahlung-fur-Kinder-und-Kinderfreunde_73835
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73835-h/images/cover.jpg
 creator:
   author:
     agent_name: Friederich, Ferdinand
     gutenberg_agent_id: '57241'
     url: http://www.gutenberg.org/2009/agents/57241
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73835#Der-Gang-nach-der-Himmelpforte-b-Eine-Erzahlung-fur-Kinder-und-Kinderfreunde
 gutenberg_issued: '2024-06-15'
 gutenberg_type: Text
 identifiers:
